@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.113" height="28.83" viewBox="0 0 30.113 28.83">
+    <defs>
+        <style>
+            .cls-1{fill:#eaeaea;stroke:#d8d8d8}.cls-2{fill:#6c6c6c}.cls-3{stroke:none}.cls-4{fill:none}
+        </style>
+    </defs>
+    <g id="Icon_Search" data-name="Icon Search" transform="translate(1 1.001)">
+        <g id="Rectangle_122" class="cls-1" data-name="Rectangle 122" transform="translate(-1 -1)">
+            <rect width="30.113" height="28.83" class="cls-3" rx="14.415"/>
+            <rect width="29.113" height="27.83" x=".5" y=".5" class="cls-4" rx="13.915"/>
+        </g>
+        <path id="Search_Icon" d="M2 6.988A4.943 4.943 0 0 1 6.988 2a4.943 4.943 0 0 1 4.992 4.988 4.943 4.943 0 0 1-4.992 4.992A4.943 4.943 0 0 1 2 6.988zm12.279 8.685a.988.988 0 0 0 1.4-1.4l-3.095-3.095a6.835 6.835 0 0 0 1.4-4.193A6.945 6.945 0 0 0 6.988 0 6.945 6.945 0 0 0 0 6.988a6.945 6.945 0 0 0 6.988 6.988 6.835 6.835 0 0 0 4.193-1.4z" class="cls-2" data-name="Search Icon" transform="translate(6.089 5.444)"/>
+    </g>
+</svg>

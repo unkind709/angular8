@@ -1,0 +1,15 @@
+i {
+  &.ais {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    width: 1em;
+    height: 1em;
+    font-size: 30px * $scale;
+    display: inline-block;
+
+    &.ais-search {
+      background-image: url(./assets/icons/ic_search.svg);
+    }
+  }
+}

@@ -1,1 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
+@import 'styles/variables';
+@import 'styles/icons';
+@import 'styles/fonts';
+
+@import '~bootstrap/scss/bootstrap';
+@import '~font-awesome/scss/font-awesome';
+
+@import 'styles/customstyles';
+
+body {
+  font-family: 'DBHeavent-Cond';
+  font-size: 20px * $scale;
+}
+
+a,
+a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+.pointer {
+  cursor: pointer;
+  user-select: none;
+}
